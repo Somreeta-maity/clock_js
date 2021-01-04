@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+html,body{
+    height:100%;
+    background-color: rgb(114, 114, 68);
+}
+ #clock{
+     background-color: grey;
+     color:black;
+     font-family: 'Lobster', cursive;
+     font-size:70px;
+     position: relative;
+     top:50%;
+     margin-top:-35px;
+     text-align:center;
+     margin-left: 700px;
+     margin-right:700px;
+    }
